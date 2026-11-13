@@ -1,0 +1,7 @@
+# Excel 临时文件
+~$*
+*.tmp
+
+# 系统文件
+Thumbs.db
+.DS_Store
