@@ -61,10 +61,10 @@
 ## 项目结构
 
 ```
-├── 母婴产品市场分析.pbix     # Power BI 分析报告（源文件）
-├── data/                     # 5 张原始数据表
-├── screenshots/              # 报告各页截图
-└── README.md
+ 母婴产品市场分析.pbix     # Power BI 分析报告（源文件）
+ data/                     # 5 张原始数据表
+ screenshots/              # 报告各页截图
+ README.md
 ```
 
 ## 如何查看
